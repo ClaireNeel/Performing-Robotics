@@ -11,3 +11,6 @@ It will probably need to be on the larger size to be able to have a strong enoug
 
 
 Final Project Drive File : https://docs.google.com/a/nyu.edu/document/d/1dpDOhEAxqODrsuVvy_v7vn-fHoXQCVorIIy6wt9MLGw/edit?usp=sharing 
+
+Thursday November 16: talk to engineering buddies about schematic, make Illustrator file for wooden base
+Thursday November 21: mill base, build chassiss

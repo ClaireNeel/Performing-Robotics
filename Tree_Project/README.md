@@ -13,3 +13,4 @@ The three most difficult parts of the project were letting go of the chassis ide
 
 In hindsight, I would have been a better planner, changed my design after encountering flaws and hinderances that I couldn’t have fixed, and had a better minimum viable option. I think I tried to do too much with too little experience and I was too stubborn in waiting to admit that I couldn’t produce the product I wanted too. I think that I need to be more flexible in changing my plans in the future and looking for easier alternatives instead of getting stuck in the same rut. 
 
+https://drive.google.com/open?id=1Vg8jwx1XNAU2HRpcWKm3ZVJ6AO9pybFz Here are pictures, videos, and schematics.
